@@ -1,0 +1,302 @@
+ID: 1, Nome: Sonia, Data de Nascimento: 24/03/1966, Gênero: Feminino, Endereço: Rua Irapuru, Telefone: 1434912077
+ID: 2, Nome: Matheus de Oliveira, Data de Nascimento: 02/08/1999, Gênero: Masculino, Endereço: Quinze de Novembro 35, Telefone: 14996416289
+ID: 3, Nome: Otto Aparecida, Data de Nascimento: 20/11/1958, Gênero: Masculino, Endereço: Passarela Ana Júlia Mendes, 49, Tupã, SP, Telefone: (014) 21 2421-9
+ID: 4, Nome: Luana Brito, Data de Nascimento: 24/12/2022, Gênero: Feminino, Endereço: Loteamento de Melo, Tupã, SP, Telefone: (014) 84 1565-9
+ID: 5, Nome: Vicente da Luz, Data de Nascimento: 15/02/1932, Gênero: Masculino, Endereço: Aeroporto de Borges, 80, Tupã, SP, Telefone: (014) (071) 351
+ID: 6, Nome: Melissa Borges, Data de Nascimento: 06/08/1934, Gênero: Feminino, Endereço: Residencial de Caldeira, 58, Tupã, SP, Telefone: (014) +55 71 85
+ID: 7, Nome: Caleb Peixoto, Data de Nascimento: 13/01/1976, Gênero: Masculino, Endereço: Feira de da Rocha, 33, Tupã, SP, Telefone: (014) +55 (051)
+ID: 8, Nome: Ágatha Rodrigues, Data de Nascimento: 26/11/1976, Gênero: Feminino, Endereço: Rua de da Mota, 733, Tupã, SP, Telefone: (014) 0800 477 
+ID: 9, Nome: Ryan Pastor, Data de Nascimento: 30/05/2009, Gênero: Masculino, Endereço: Feira Almeida, 41, Tupã, SP, Telefone: (014) 31 2560 1
+ID: 10, Nome: Yasmin Pereira, Data de Nascimento: 11/04/2016, Gênero: Feminino, Endereço: Condomínio Porto, Tupã, SP, Telefone: (014) +55 (071)
+ID: 11, Nome: Antônio Correia, Data de Nascimento: 28/10/1948, Gênero: Masculino, Endereço: Recanto Costela, 1, Tupã, SP, Telefone: (014) 71 6914-1
+ID: 12, Nome: Maya Cirino, Data de Nascimento: 16/12/1931, Gênero: Feminino, Endereço: Área Guilherme Sampaio, 53, Tupã, SP, Telefone: (014) 11 7923 0
+ID: 13, Nome: José Campos, Data de Nascimento: 14/11/2004, Gênero: Masculino, Endereço: Estação de Albuquerque, 96, Tupã, SP, Telefone: (014) (041) 564
+ID: 14, Nome: Ana Clara Nogueira, Data de Nascimento: 16/11/1961, Gênero: Feminino, Endereço: Recanto Fogaça, 345, Tupã, SP, Telefone: (014) (041) 661
+ID: 15, Nome: Henry Gabriel Porto, Data de Nascimento: 21/08/1984, Gênero: Masculino, Endereço: Viela de Nunes, 70, Tupã, SP, Telefone: (014) 0300 602 
+ID: 16, Nome: Vitória Mendonça, Data de Nascimento: 21/01/2000, Gênero: Feminino, Endereço: Área Monteiro, 84, Tupã, SP, Telefone: (014) +55 (071)
+ID: 17, Nome: Alexandre Cunha, Data de Nascimento: 05/08/1925, Gênero: Masculino, Endereço: Viela Moura, 213, Tupã, SP, Telefone: (014) 0500-344-
+ID: 18, Nome: Srta. Alícia da Mota, Data de Nascimento: 19/04/1985, Gênero: Feminino, Endereço: Jardim Carvalho, 351, Tupã, SP, Telefone: (014) +55 84 00
+ID: 19, Nome: Asafe Souza, Data de Nascimento: 06/02/2019, Gênero: Masculino, Endereço: Residencial de Silva, 66, Tupã, SP, Telefone: (014) 61 2369-4
+ID: 20, Nome: Lívia Fernandes, Data de Nascimento: 16/08/1973, Gênero: Feminino, Endereço: Loteamento Vasconcelos, 500, Tupã, SP, Telefone: (014) +55 (031)
+ID: 21, Nome: Rhavi Siqueira, Data de Nascimento: 09/04/1956, Gênero: Masculino, Endereço: Estação Rebeca Siqueira, Tupã, SP, Telefone: (014) +55 11 46
+ID: 22, Nome: Olívia Fernandes, Data de Nascimento: 03/06/1970, Gênero: Feminino, Endereço: Condomínio Maysa Lima, Tupã, SP, Telefone: (014) +55 (051)
+ID: 23, Nome: Gael Henrique Souza, Data de Nascimento: 25/09/1953, Gênero: Masculino, Endereço: Aeroporto Gael Henrique Gonçalves, Tupã, SP, Telefone: (014) 84 8477-9
+ID: 24, Nome: Hellena da Luz, Data de Nascimento: 19/04/2003, Gênero: Feminino, Endereço: Praça Correia, 21, Tupã, SP, Telefone: (014) +55 (041)
+ID: 25, Nome: Sr. Henrique Pinto, Data de Nascimento: 27/07/1943, Gênero: Masculino, Endereço: Quadra Garcia, Tupã, SP, Telefone: (014) 21 8219 7
+ID: 26, Nome: Dra. Mariana Moreira, Data de Nascimento: 27/01/1991, Gênero: Feminino, Endereço: Residencial Melina Porto, 48, Tupã, SP, Telefone: (014) +55 (021)
+ID: 27, Nome: Mateus Pacheco, Data de Nascimento: 18/09/1963, Gênero: Masculino, Endereço: Recanto de Azevedo, 9, Tupã, SP, Telefone: (014) +55 (061)
+ID: 28, Nome: Clarice Rezende, Data de Nascimento: 10/05/1986, Gênero: Feminino, Endereço: Parque de Moura, 209, Tupã, SP, Telefone: (014) 41 9163-4
+ID: 29, Nome: Mathias Pereira, Data de Nascimento: 16/06/2003, Gênero: Masculino, Endereço: Viaduto Abreu, 94, Tupã, SP, Telefone: (014) 0300 451 
+ID: 30, Nome: Maria Isis Araújo, Data de Nascimento: 10/12/1945, Gênero: Feminino, Endereço: Feira da Paz, 10, Tupã, SP, Telefone: (014) (081) 627
+ID: 31, Nome: Ravi Lucca Gomes, Data de Nascimento: 07/02/1986, Gênero: Masculino, Endereço: Recanto Vasconcelos, Tupã, SP, Telefone: (014) +55 (021)
+ID: 32, Nome: Sra. Evelyn Gomes, Data de Nascimento: 19/05/1990, Gênero: Feminino, Endereço: Vale Sampaio, Tupã, SP, Telefone: (014) (061) 951
+ID: 33, Nome: Sr. Valentim Viana, Data de Nascimento: 22/05/1949, Gênero: Masculino, Endereço: Praia Esther Sá, Tupã, SP, Telefone: (014) +55 (071)
+ID: 34, Nome: Helena da Conceição, Data de Nascimento: 15/05/1936, Gênero: Feminino, Endereço: Rodovia de Sampaio, 568, Tupã, SP, Telefone: (014) +55 61 26
+ID: 35, Nome: Oliver Vasconcelos, Data de Nascimento: 25/11/1944, Gênero: Masculino, Endereço: Praia Lopes, 80, Tupã, SP, Telefone: (014) (061) 415
+ID: 36, Nome: Emanuelly Albuquerque, Data de Nascimento: 07/01/1955, Gênero: Feminino, Endereço: Campo João Pedro Costela, 4, Tupã, SP, Telefone: (014) +55 71 04
+ID: 37, Nome: Daniel Mendes, Data de Nascimento: 12/07/1970, Gênero: Masculino, Endereço: Conjunto Benjamin Costela, 85, Tupã, SP, Telefone: (014) (021) 485
+ID: 38, Nome: Lorena Castro, Data de Nascimento: 26/11/1974, Gênero: Feminino, Endereço: Fazenda Dias, 333, Tupã, SP, Telefone: (014) (021) 560
+ID: 39, Nome: Sr. Davi Lucca Leão, Data de Nascimento: 24/05/1964, Gênero: Masculino, Endereço: Distrito Lavínia da Rosa, 41, Tupã, SP, Telefone: (014) (031) 580
+ID: 40, Nome: Gabrielly Freitas, Data de Nascimento: 27/07/1963, Gênero: Feminino, Endereço: Estação Vieira, 5, Tupã, SP, Telefone: (014) +55 61 89
+ID: 41, Nome: Josué Marques, Data de Nascimento: 22/12/1969, Gênero: Masculino, Endereço: Morro Martins, 8, Tupã, SP, Telefone: (014) +55 (084)
+ID: 42, Nome: Liz Nogueira, Data de Nascimento: 22/07/2006, Gênero: Feminino, Endereço: Recanto Francisco Rocha, 93, Tupã, SP, Telefone: (014) 71 4014 0
+ID: 43, Nome: Miguel Macedo, Data de Nascimento: 15/07/1937, Gênero: Masculino, Endereço: Morro Alice Sá, 29, Tupã, SP, Telefone: (014) +55 (051)
+ID: 44, Nome: Ana Lívia Leão, Data de Nascimento: 28/01/1963, Gênero: Feminino, Endereço: Conjunto de Oliveira, 238, Tupã, SP, Telefone: (014) 81 8644 7
+ID: 45, Nome: Davi Sampaio, Data de Nascimento: 19/01/1940, Gênero: Masculino, Endereço: Trecho Maria Helena Carvalho, 845, Tupã, SP, Telefone: (014) 84 3778 5
+ID: 46, Nome: Cecília Souza, Data de Nascimento: 02/02/1991, Gênero: Feminino, Endereço: Favela de Alves, Tupã, SP, Telefone: (014) 11 7608 1
+ID: 47, Nome: Asafe Camargo, Data de Nascimento: 24/02/2008, Gênero: Masculino, Endereço: Vereda Ana Siqueira, Tupã, SP, Telefone: (014) +55 31 29
+ID: 48, Nome: Eloá Farias, Data de Nascimento: 16/01/1981, Gênero: Feminino, Endereço: Praça de Casa Grande, 92, Tupã, SP, Telefone: (014) (051) 232
+ID: 49, Nome: Henry Vieira, Data de Nascimento: 08/05/1950, Gênero: Masculino, Endereço: Trecho Santos, 7, Tupã, SP, Telefone: (014) +55 (051)
+ID: 50, Nome: Aurora Santos, Data de Nascimento: 07/05/1993, Gênero: Feminino, Endereço: Morro Juliana Marques, 9, Tupã, SP, Telefone: (014) 81 6977-4
+ID: 51, Nome: Asafe Aparecida, Data de Nascimento: 20/10/1930, Gênero: Masculino, Endereço: Aeroporto Amanda Rezende, 3, Tupã, SP, Telefone: (014) +55 (084)
+ID: 52, Nome: Bella Pereira, Data de Nascimento: 21/04/1935, Gênero: Feminino, Endereço: Largo Stella Marques, 14, Tupã, SP, Telefone: (014) 41 0351-3
+ID: 53, Nome: José Rocha, Data de Nascimento: 14/11/2022, Gênero: Masculino, Endereço: Lagoa Pietra Gomes, 67, Tupã, SP, Telefone: (014) +55 41 04
+ID: 54, Nome: Maria Sophia Monteiro, Data de Nascimento: 29/04/1986, Gênero: Feminino, Endereço: Chácara Barros, 31, Tupã, SP, Telefone: (014) 81 3791 6
+ID: 55, Nome: Josué Mendonça, Data de Nascimento: 06/08/1953, Gênero: Masculino, Endereço: Morro Antonella Lopes, 9, Tupã, SP, Telefone: (014) (011) 983
+ID: 56, Nome: Joana da Mata, Data de Nascimento: 13/03/1955, Gênero: Feminino, Endereço: Vale Viana, Tupã, SP, Telefone: (014) +55 41 26
+ID: 57, Nome: Benicio Campos, Data de Nascimento: 03/01/1976, Gênero: Masculino, Endereço: Condomínio Elisa da Conceição, 443, Tupã, SP, Telefone: (014) +55 (084)
+ID: 58, Nome: Cecilia Albuquerque, Data de Nascimento: 05/12/1998, Gênero: Feminino, Endereço: Núcleo Benicio Cardoso, 32, Tupã, SP, Telefone: (014) 31 1237-9
+ID: 59, Nome: Matheus Fogaça, Data de Nascimento: 19/06/2006, Gênero: Masculino, Endereço: Vereda Monteiro, 1, Tupã, SP, Telefone: (014) 51 9577 4
+ID: 60, Nome: Srta. Sabrina Sousa, Data de Nascimento: 06/02/1989, Gênero: Feminino, Endereço: Chácara Valentim Carvalho, 663, Tupã, SP, Telefone: (014) (021) 603
+ID: 61, Nome: Sr. José Pedro Ferreira, Data de Nascimento: 19/01/2015, Gênero: Masculino, Endereço: Alameda Eduarda Oliveira, 602, Tupã, SP, Telefone: (014) +55 (031)
+ID: 62, Nome: Ana Liz Ferreira, Data de Nascimento: 06/01/2014, Gênero: Feminino, Endereço: Favela Machado, 62, Tupã, SP, Telefone: (014) (041) 256
+ID: 63, Nome: Ravi Teixeira, Data de Nascimento: 10/05/1929, Gênero: Masculino, Endereço: Pátio Gomes, 90, Tupã, SP, Telefone: (014) +55 84 98
+ID: 64, Nome: Eloá Souza, Data de Nascimento: 10/09/2016, Gênero: Feminino, Endereço: Chácara Lima, 819, Tupã, SP, Telefone: (014) +55 (021)
+ID: 65, Nome: Caio Fogaça, Data de Nascimento: 28/06/1963, Gênero: Masculino, Endereço: Quadra da Costa, 752, Tupã, SP, Telefone: (014) (081) 476
+ID: 66, Nome: Ana Beatriz Vargas, Data de Nascimento: 10/01/1996, Gênero: Feminino, Endereço: Jardim de Rodrigues, 8, Tupã, SP, Telefone: (014) 61 1657 0
+ID: 67, Nome: João Vitor Rodrigues, Data de Nascimento: 01/11/1951, Gênero: Masculino, Endereço: Rua de Fernandes, 44, Tupã, SP, Telefone: (014) +55 61 95
+ID: 68, Nome: Alexia Pacheco, Data de Nascimento: 16/08/1930, Gênero: Feminino, Endereço: Morro Fonseca, 64, Tupã, SP, Telefone: (014) 11 6962-0
+ID: 69, Nome: Davi Lucas Fernandes, Data de Nascimento: 01/12/1924, Gênero: Masculino, Endereço: Viaduto Théo Souza, 931, Tupã, SP, Telefone: (014) (011) 428
+ID: 70, Nome: Ísis Pereira, Data de Nascimento: 03/01/1976, Gênero: Feminino, Endereço: Ladeira Ana Lívia da Paz, 7, Tupã, SP, Telefone: (014) +55 84 48
+ID: 71, Nome: André Sá, Data de Nascimento: 29/03/1993, Gênero: Masculino, Endereço: Vila de Viana, 865, Tupã, SP, Telefone: (014) +55 (051)
+ID: 72, Nome: Srta. Maria Pires, Data de Nascimento: 06/12/2018, Gênero: Feminino, Endereço: Feira Oliveira, 34, Tupã, SP, Telefone: (014) 84 1973 7
+ID: 73, Nome: Pedro Lucas Azevedo, Data de Nascimento: 23/09/1981, Gênero: Masculino, Endereço: Ladeira Thiago Lopes, 69, Tupã, SP, Telefone: (014) +55 31 40
+ID: 74, Nome: Maria Julia Sampaio, Data de Nascimento: 16/11/1928, Gênero: Feminino, Endereço: Morro José Nunes, 15, Tupã, SP, Telefone: (014) 61 7820 1
+ID: 75, Nome: Bernardo Correia, Data de Nascimento: 09/04/2021, Gênero: Masculino, Endereço: Setor de Melo, Tupã, SP, Telefone: (014) +55 (061)
+ID: 76, Nome: Clara Guerra, Data de Nascimento: 23/04/1965, Gênero: Feminino, Endereço: Esplanada Cardoso, 17, Tupã, SP, Telefone: (014) 41 0862-5
+ID: 77, Nome: Erick da Luz, Data de Nascimento: 01/02/1951, Gênero: Masculino, Endereço: Largo Thiago Viana, 88, Tupã, SP, Telefone: (014) +55 (021)
+ID: 78, Nome: Ana Sophia Correia, Data de Nascimento: 24/11/2011, Gênero: Feminino, Endereço: Vale Rhavi Marques, 325, Tupã, SP, Telefone: (014) (071) 808
+ID: 79, Nome: Paulo Pereira, Data de Nascimento: 07/08/1971, Gênero: Masculino, Endereço: Loteamento Gabriela Moraes, 31, Tupã, SP, Telefone: (014) (051) 022
+ID: 80, Nome: Ana Liz Sampaio, Data de Nascimento: 04/01/1966, Gênero: Feminino, Endereço: Avenida Lucca Fogaça, 7, Tupã, SP, Telefone: (014) +55 (071)
+ID: 81, Nome: Fernando Alves, Data de Nascimento: 26/05/1985, Gênero: Masculino, Endereço: Estrada Hellena Azevedo, 21, Tupã, SP, Telefone: (014) +55 (041)
+ID: 82, Nome: Sabrina Melo, Data de Nascimento: 07/08/1934, Gênero: Feminino, Endereço: Setor Guerra, 90, Tupã, SP, Telefone: (014) +55 41 15
+ID: 83, Nome: Dr. Arthur Miguel Abreu, Data de Nascimento: 01/12/1974, Gênero: Masculino, Endereço: Sítio Sampaio, 32, Tupã, SP, Telefone: (014) +55 (031)
+ID: 84, Nome: Larissa Farias, Data de Nascimento: 15/10/1946, Gênero: Feminino, Endereço: Fazenda Luan Leão, 35, Tupã, SP, Telefone: (014) 51 9029 0
+ID: 85, Nome: Apollo Duarte, Data de Nascimento: 26/01/1993, Gênero: Masculino, Endereço: Avenida Vasconcelos, Tupã, SP, Telefone: (014) +55 61 99
+ID: 86, Nome: Lívia Silva, Data de Nascimento: 25/05/1957, Gênero: Feminino, Endereço: Rodovia Pedro Nascimento, 31, Tupã, SP, Telefone: (014) 81 9516 6
+ID: 87, Nome: Miguel da Costa, Data de Nascimento: 21/06/2011, Gênero: Masculino, Endereço: Trecho Davi Miguel da Cunha, 68, Tupã, SP, Telefone: (014) 71 0997-3
+ID: 88, Nome: Maria Júlia Pires, Data de Nascimento: 02/03/1938, Gênero: Feminino, Endereço: Distrito Silva, 70, Tupã, SP, Telefone: (014) 61 6179 7
+ID: 89, Nome: Noah Castro, Data de Nascimento: 23/12/2003, Gênero: Masculino, Endereço: Rodovia Henry Gabriel Freitas, 62, Tupã, SP, Telefone: (014) (071) 803
+ID: 90, Nome: Ana Cecília da Rocha, Data de Nascimento: 12/09/1998, Gênero: Feminino, Endereço: Viela Jesus, 46, Tupã, SP, Telefone: (014) (084) 221
+ID: 91, Nome: Miguel Martins, Data de Nascimento: 06/01/1934, Gênero: Masculino, Endereço: Viela de Barbosa, 98, Tupã, SP, Telefone: (014) +55 84 22
+ID: 92, Nome: Maria Alice Pinto, Data de Nascimento: 20/10/2023, Gênero: Feminino, Endereço: Loteamento de Rodrigues, 7, Tupã, SP, Telefone: (014) +55 71 25
+ID: 93, Nome: Isaac Garcia, Data de Nascimento: 23/10/1970, Gênero: Masculino, Endereço: Rodovia Ana Laura Jesus, 31, Tupã, SP, Telefone: (014) +55 (011)
+ID: 94, Nome: Brenda da Mata, Data de Nascimento: 11/05/2017, Gênero: Feminino, Endereço: Esplanada de Garcia, 1, Tupã, SP, Telefone: (014) +55 (021)
+ID: 95, Nome: Dr. Ryan Vasconcelos, Data de Nascimento: 11/10/1954, Gênero: Masculino, Endereço: Sítio de Barbosa, 320, Tupã, SP, Telefone: (014) 41 6937-6
+ID: 96, Nome: Maria Julia Cavalcante, Data de Nascimento: 31/08/1983, Gênero: Feminino, Endereço: Parque Borges, 465, Tupã, SP, Telefone: (014) 21 7079-1
+ID: 97, Nome: Matteo Melo, Data de Nascimento: 04/10/1959, Gênero: Masculino, Endereço: Setor Fonseca, 34, Tupã, SP, Telefone: (014) (051) 117
+ID: 98, Nome: Rafaela da Conceição, Data de Nascimento: 27/09/1938, Gênero: Feminino, Endereço: Núcleo Brito, 30, Tupã, SP, Telefone: (014) 0900 830 
+ID: 99, Nome: Cauê Melo, Data de Nascimento: 21/10/1999, Gênero: Masculino, Endereço: Colônia Anthony da Costa, 57, Tupã, SP, Telefone: (014) +55 84 30
+ID: 100, Nome: Mariana Câmara, Data de Nascimento: 22/03/2024, Gênero: Feminino, Endereço: Distrito Ravi da Paz, 67, Tupã, SP, Telefone: (014) (011) 692
+ID: 101, Nome: Marcelo Pires, Data de Nascimento: 22/06/1972, Gênero: Masculino, Endereço: Morro Isadora Vargas, 81, Tupã, SP, Telefone: (014) (021) 172
+ID: 102, Nome: Brenda Rodrigues, Data de Nascimento: 25/11/1975, Gênero: Feminino, Endereço: Rodovia Maria Eduarda Nunes, 936, Tupã, SP, Telefone: (014) (041) 735
+ID: 103, Nome: Otto Aparecida, Data de Nascimento: 20/11/1958, Gênero: Masculino, Endereço: Passarela Ana Júlia Mendes, 49, Tupã, SP, Telefone: (014) 21 2421-9
+ID: 104, Nome: Luana Brito, Data de Nascimento: 24/12/2022, Gênero: Feminino, Endereço: Loteamento de Melo, Tupã, SP, Telefone: (014) 84 1565-9
+ID: 105, Nome: Vicente da Luz, Data de Nascimento: 15/02/1932, Gênero: Masculino, Endereço: Aeroporto de Borges, 80, Tupã, SP, Telefone: (014) (071) 351
+ID: 106, Nome: Melissa Borges, Data de Nascimento: 06/08/1934, Gênero: Feminino, Endereço: Residencial de Caldeira, 58, Tupã, SP, Telefone: (014) +55 71 85
+ID: 107, Nome: Caleb Peixoto, Data de Nascimento: 13/01/1976, Gênero: Masculino, Endereço: Feira de da Rocha, 33, Tupã, SP, Telefone: (014) +55 (051)
+ID: 108, Nome: Ágatha Rodrigues, Data de Nascimento: 26/11/1976, Gênero: Feminino, Endereço: Rua de da Mota, 733, Tupã, SP, Telefone: (014) 0800 477 
+ID: 109, Nome: Ryan Pastor, Data de Nascimento: 30/05/2009, Gênero: Masculino, Endereço: Feira Almeida, 41, Tupã, SP, Telefone: (014) 31 2560 1
+ID: 110, Nome: Yasmin Pereira, Data de Nascimento: 11/04/2016, Gênero: Feminino, Endereço: Condomínio Porto, Tupã, SP, Telefone: (014) +55 (071)
+ID: 111, Nome: Antônio Correia, Data de Nascimento: 28/10/1948, Gênero: Masculino, Endereço: Recanto Costela, 1, Tupã, SP, Telefone: (014) 71 6914-1
+ID: 112, Nome: Maya Cirino, Data de Nascimento: 16/12/1931, Gênero: Feminino, Endereço: Área Guilherme Sampaio, 53, Tupã, SP, Telefone: (014) 11 7923 0
+ID: 113, Nome: José Campos, Data de Nascimento: 14/11/2004, Gênero: Masculino, Endereço: Estação de Albuquerque, 96, Tupã, SP, Telefone: (014) (041) 564
+ID: 114, Nome: Ana Clara Nogueira, Data de Nascimento: 16/11/1961, Gênero: Feminino, Endereço: Recanto Fogaça, 345, Tupã, SP, Telefone: (014) (041) 661
+ID: 115, Nome: Henry Gabriel Porto, Data de Nascimento: 21/08/1984, Gênero: Masculino, Endereço: Viela de Nunes, 70, Tupã, SP, Telefone: (014) 0300 602 
+ID: 116, Nome: Vitória Mendonça, Data de Nascimento: 21/01/2000, Gênero: Feminino, Endereço: Área Monteiro, 84, Tupã, SP, Telefone: (014) +55 (071)
+ID: 117, Nome: Alexandre Cunha, Data de Nascimento: 05/08/1925, Gênero: Masculino, Endereço: Viela Moura, 213, Tupã, SP, Telefone: (014) 0500-344-
+ID: 118, Nome: Srta. Alícia da Mota, Data de Nascimento: 19/04/1985, Gênero: Feminino, Endereço: Jardim Carvalho, 351, Tupã, SP, Telefone: (014) +55 84 00
+ID: 119, Nome: Asafe Souza, Data de Nascimento: 06/02/2019, Gênero: Masculino, Endereço: Residencial de Silva, 66, Tupã, SP, Telefone: (014) 61 2369-4
+ID: 120, Nome: Lívia Fernandes, Data de Nascimento: 16/08/1973, Gênero: Feminino, Endereço: Loteamento Vasconcelos, 500, Tupã, SP, Telefone: (014) +55 (031)
+ID: 121, Nome: Rhavi Siqueira, Data de Nascimento: 09/04/1956, Gênero: Masculino, Endereço: Estação Rebeca Siqueira, Tupã, SP, Telefone: (014) +55 11 46
+ID: 122, Nome: Olívia Fernandes, Data de Nascimento: 03/06/1970, Gênero: Feminino, Endereço: Condomínio Maysa Lima, Tupã, SP, Telefone: (014) +55 (051)
+ID: 123, Nome: Gael Henrique Souza, Data de Nascimento: 25/09/1953, Gênero: Masculino, Endereço: Aeroporto Gael Henrique Gonçalves, Tupã, SP, Telefone: (014) 84 8477-9
+ID: 124, Nome: Hellena da Luz, Data de Nascimento: 19/04/2003, Gênero: Feminino, Endereço: Praça Correia, 21, Tupã, SP, Telefone: (014) +55 (041)
+ID: 125, Nome: Sr. Henrique Pinto, Data de Nascimento: 27/07/1943, Gênero: Masculino, Endereço: Quadra Garcia, Tupã, SP, Telefone: (014) 21 8219 7
+ID: 126, Nome: Dra. Mariana Moreira, Data de Nascimento: 27/01/1991, Gênero: Feminino, Endereço: Residencial Melina Porto, 48, Tupã, SP, Telefone: (014) +55 (021)
+ID: 127, Nome: Mateus Pacheco, Data de Nascimento: 18/09/1963, Gênero: Masculino, Endereço: Recanto de Azevedo, 9, Tupã, SP, Telefone: (014) +55 (061)
+ID: 128, Nome: Clarice Rezende, Data de Nascimento: 10/05/1986, Gênero: Feminino, Endereço: Parque de Moura, 209, Tupã, SP, Telefone: (014) 41 9163-4
+ID: 129, Nome: Mathias Pereira, Data de Nascimento: 16/06/2003, Gênero: Masculino, Endereço: Viaduto Abreu, 94, Tupã, SP, Telefone: (014) 0300 451 
+ID: 130, Nome: Maria Isis Araújo, Data de Nascimento: 10/12/1945, Gênero: Feminino, Endereço: Feira da Paz, 10, Tupã, SP, Telefone: (014) (081) 627
+ID: 131, Nome: Ravi Lucca Gomes, Data de Nascimento: 07/02/1986, Gênero: Masculino, Endereço: Recanto Vasconcelos, Tupã, SP, Telefone: (014) +55 (021)
+ID: 132, Nome: Sra. Evelyn Gomes, Data de Nascimento: 19/05/1990, Gênero: Feminino, Endereço: Vale Sampaio, Tupã, SP, Telefone: (014) (061) 951
+ID: 133, Nome: Sr. Valentim Viana, Data de Nascimento: 22/05/1949, Gênero: Masculino, Endereço: Praia Esther Sá, Tupã, SP, Telefone: (014) +55 (071)
+ID: 134, Nome: Helena da Conceição, Data de Nascimento: 15/05/1936, Gênero: Feminino, Endereço: Rodovia de Sampaio, 568, Tupã, SP, Telefone: (014) +55 61 26
+ID: 135, Nome: Oliver Vasconcelos, Data de Nascimento: 25/11/1944, Gênero: Masculino, Endereço: Praia Lopes, 80, Tupã, SP, Telefone: (014) (061) 415
+ID: 136, Nome: Emanuelly Albuquerque, Data de Nascimento: 07/01/1955, Gênero: Feminino, Endereço: Campo João Pedro Costela, 4, Tupã, SP, Telefone: (014) +55 71 04
+ID: 137, Nome: Daniel Mendes, Data de Nascimento: 12/07/1970, Gênero: Masculino, Endereço: Conjunto Benjamin Costela, 85, Tupã, SP, Telefone: (014) (021) 485
+ID: 138, Nome: Lorena Castro, Data de Nascimento: 26/11/1974, Gênero: Feminino, Endereço: Fazenda Dias, 333, Tupã, SP, Telefone: (014) (021) 560
+ID: 139, Nome: Sr. Davi Lucca Leão, Data de Nascimento: 24/05/1964, Gênero: Masculino, Endereço: Distrito Lavínia da Rosa, 41, Tupã, SP, Telefone: (014) (031) 580
+ID: 140, Nome: Gabrielly Freitas, Data de Nascimento: 27/07/1963, Gênero: Feminino, Endereço: Estação Vieira, 5, Tupã, SP, Telefone: (014) +55 61 89
+ID: 141, Nome: Josué Marques, Data de Nascimento: 22/12/1969, Gênero: Masculino, Endereço: Morro Martins, 8, Tupã, SP, Telefone: (014) +55 (084)
+ID: 142, Nome: Liz Nogueira, Data de Nascimento: 22/07/2006, Gênero: Feminino, Endereço: Recanto Francisco Rocha, 93, Tupã, SP, Telefone: (014) 71 4014 0
+ID: 143, Nome: Miguel Macedo, Data de Nascimento: 15/07/1937, Gênero: Masculino, Endereço: Morro Alice Sá, 29, Tupã, SP, Telefone: (014) +55 (051)
+ID: 144, Nome: Ana Lívia Leão, Data de Nascimento: 28/01/1963, Gênero: Feminino, Endereço: Conjunto de Oliveira, 238, Tupã, SP, Telefone: (014) 81 8644 7
+ID: 145, Nome: Davi Sampaio, Data de Nascimento: 19/01/1940, Gênero: Masculino, Endereço: Trecho Maria Helena Carvalho, 845, Tupã, SP, Telefone: (014) 84 3778 5
+ID: 146, Nome: Cecília Souza, Data de Nascimento: 02/02/1991, Gênero: Feminino, Endereço: Favela de Alves, Tupã, SP, Telefone: (014) 11 7608 1
+ID: 147, Nome: Asafe Camargo, Data de Nascimento: 24/02/2008, Gênero: Masculino, Endereço: Vereda Ana Siqueira, Tupã, SP, Telefone: (014) +55 31 29
+ID: 148, Nome: Eloá Farias, Data de Nascimento: 16/01/1981, Gênero: Feminino, Endereço: Praça de Casa Grande, 92, Tupã, SP, Telefone: (014) (051) 232
+ID: 149, Nome: Henry Vieira, Data de Nascimento: 08/05/1950, Gênero: Masculino, Endereço: Trecho Santos, 7, Tupã, SP, Telefone: (014) +55 (051)
+ID: 150, Nome: Aurora Santos, Data de Nascimento: 07/05/1993, Gênero: Feminino, Endereço: Morro Juliana Marques, 9, Tupã, SP, Telefone: (014) 81 6977-4
+ID: 151, Nome: Asafe Aparecida, Data de Nascimento: 20/10/1930, Gênero: Masculino, Endereço: Aeroporto Amanda Rezende, 3, Tupã, SP, Telefone: (014) +55 (084)
+ID: 152, Nome: Bella Pereira, Data de Nascimento: 21/04/1935, Gênero: Feminino, Endereço: Largo Stella Marques, 14, Tupã, SP, Telefone: (014) 41 0351-3
+ID: 153, Nome: José Rocha, Data de Nascimento: 14/11/2022, Gênero: Masculino, Endereço: Lagoa Pietra Gomes, 67, Tupã, SP, Telefone: (014) +55 41 04
+ID: 154, Nome: Maria Sophia Monteiro, Data de Nascimento: 29/04/1986, Gênero: Feminino, Endereço: Chácara Barros, 31, Tupã, SP, Telefone: (014) 81 3791 6
+ID: 155, Nome: Josué Mendonça, Data de Nascimento: 06/08/1953, Gênero: Masculino, Endereço: Morro Antonella Lopes, 9, Tupã, SP, Telefone: (014) (011) 983
+ID: 156, Nome: Joana da Mata, Data de Nascimento: 13/03/1955, Gênero: Feminino, Endereço: Vale Viana, Tupã, SP, Telefone: (014) +55 41 26
+ID: 157, Nome: Benicio Campos, Data de Nascimento: 03/01/1976, Gênero: Masculino, Endereço: Condomínio Elisa da Conceição, 443, Tupã, SP, Telefone: (014) +55 (084)
+ID: 158, Nome: Cecilia Albuquerque, Data de Nascimento: 05/12/1998, Gênero: Feminino, Endereço: Núcleo Benicio Cardoso, 32, Tupã, SP, Telefone: (014) 31 1237-9
+ID: 159, Nome: Matheus Fogaça, Data de Nascimento: 19/06/2006, Gênero: Masculino, Endereço: Vereda Monteiro, 1, Tupã, SP, Telefone: (014) 51 9577 4
+ID: 160, Nome: Srta. Sabrina Sousa, Data de Nascimento: 06/02/1989, Gênero: Feminino, Endereço: Chácara Valentim Carvalho, 663, Tupã, SP, Telefone: (014) (021) 603
+ID: 161, Nome: Sr. José Pedro Ferreira, Data de Nascimento: 19/01/2015, Gênero: Masculino, Endereço: Alameda Eduarda Oliveira, 602, Tupã, SP, Telefone: (014) +55 (031)
+ID: 162, Nome: Ana Liz Ferreira, Data de Nascimento: 06/01/2014, Gênero: Feminino, Endereço: Favela Machado, 62, Tupã, SP, Telefone: (014) (041) 256
+ID: 163, Nome: Ravi Teixeira, Data de Nascimento: 10/05/1929, Gênero: Masculino, Endereço: Pátio Gomes, 90, Tupã, SP, Telefone: (014) +55 84 98
+ID: 164, Nome: Eloá Souza, Data de Nascimento: 10/09/2016, Gênero: Feminino, Endereço: Chácara Lima, 819, Tupã, SP, Telefone: (014) +55 (021)
+ID: 165, Nome: Caio Fogaça, Data de Nascimento: 28/06/1963, Gênero: Masculino, Endereço: Quadra da Costa, 752, Tupã, SP, Telefone: (014) (081) 476
+ID: 166, Nome: Ana Beatriz Vargas, Data de Nascimento: 10/01/1996, Gênero: Feminino, Endereço: Jardim de Rodrigues, 8, Tupã, SP, Telefone: (014) 61 1657 0
+ID: 167, Nome: João Vitor Rodrigues, Data de Nascimento: 01/11/1951, Gênero: Masculino, Endereço: Rua de Fernandes, 44, Tupã, SP, Telefone: (014) +55 61 95
+ID: 168, Nome: Alexia Pacheco, Data de Nascimento: 16/08/1930, Gênero: Feminino, Endereço: Morro Fonseca, 64, Tupã, SP, Telefone: (014) 11 6962-0
+ID: 169, Nome: Davi Lucas Fernandes, Data de Nascimento: 01/12/1924, Gênero: Masculino, Endereço: Viaduto Théo Souza, 931, Tupã, SP, Telefone: (014) (011) 428
+ID: 170, Nome: Ísis Pereira, Data de Nascimento: 03/01/1976, Gênero: Feminino, Endereço: Ladeira Ana Lívia da Paz, 7, Tupã, SP, Telefone: (014) +55 84 48
+ID: 171, Nome: André Sá, Data de Nascimento: 29/03/1993, Gênero: Masculino, Endereço: Vila de Viana, 865, Tupã, SP, Telefone: (014) +55 (051)
+ID: 172, Nome: Srta. Maria Pires, Data de Nascimento: 06/12/2018, Gênero: Feminino, Endereço: Feira Oliveira, 34, Tupã, SP, Telefone: (014) 84 1973 7
+ID: 173, Nome: Pedro Lucas Azevedo, Data de Nascimento: 23/09/1981, Gênero: Masculino, Endereço: Ladeira Thiago Lopes, 69, Tupã, SP, Telefone: (014) +55 31 40
+ID: 174, Nome: Maria Julia Sampaio, Data de Nascimento: 16/11/1928, Gênero: Feminino, Endereço: Morro José Nunes, 15, Tupã, SP, Telefone: (014) 61 7820 1
+ID: 175, Nome: Bernardo Correia, Data de Nascimento: 09/04/2021, Gênero: Masculino, Endereço: Setor de Melo, Tupã, SP, Telefone: (014) +55 (061)
+ID: 176, Nome: Clara Guerra, Data de Nascimento: 23/04/1965, Gênero: Feminino, Endereço: Esplanada Cardoso, 17, Tupã, SP, Telefone: (014) 41 0862-5
+ID: 177, Nome: Erick da Luz, Data de Nascimento: 01/02/1951, Gênero: Masculino, Endereço: Largo Thiago Viana, 88, Tupã, SP, Telefone: (014) +55 (021)
+ID: 178, Nome: Ana Sophia Correia, Data de Nascimento: 24/11/2011, Gênero: Feminino, Endereço: Vale Rhavi Marques, 325, Tupã, SP, Telefone: (014) (071) 808
+ID: 179, Nome: Paulo Pereira, Data de Nascimento: 07/08/1971, Gênero: Masculino, Endereço: Loteamento Gabriela Moraes, 31, Tupã, SP, Telefone: (014) (051) 022
+ID: 180, Nome: Ana Liz Sampaio, Data de Nascimento: 04/01/1966, Gênero: Feminino, Endereço: Avenida Lucca Fogaça, 7, Tupã, SP, Telefone: (014) +55 (071)
+ID: 181, Nome: Fernando Alves, Data de Nascimento: 26/05/1985, Gênero: Masculino, Endereço: Estrada Hellena Azevedo, 21, Tupã, SP, Telefone: (014) +55 (041)
+ID: 182, Nome: Sabrina Melo, Data de Nascimento: 07/08/1934, Gênero: Feminino, Endereço: Setor Guerra, 90, Tupã, SP, Telefone: (014) +55 41 15
+ID: 183, Nome: Dr. Arthur Miguel Abreu, Data de Nascimento: 01/12/1974, Gênero: Masculino, Endereço: Sítio Sampaio, 32, Tupã, SP, Telefone: (014) +55 (031)
+ID: 184, Nome: Larissa Farias, Data de Nascimento: 15/10/1946, Gênero: Feminino, Endereço: Fazenda Luan Leão, 35, Tupã, SP, Telefone: (014) 51 9029 0
+ID: 185, Nome: Apollo Duarte, Data de Nascimento: 26/01/1993, Gênero: Masculino, Endereço: Avenida Vasconcelos, Tupã, SP, Telefone: (014) +55 61 99
+ID: 186, Nome: Lívia Silva, Data de Nascimento: 25/05/1957, Gênero: Feminino, Endereço: Rodovia Pedro Nascimento, 31, Tupã, SP, Telefone: (014) 81 9516 6
+ID: 187, Nome: Miguel da Costa, Data de Nascimento: 21/06/2011, Gênero: Masculino, Endereço: Trecho Davi Miguel da Cunha, 68, Tupã, SP, Telefone: (014) 71 0997-3
+ID: 188, Nome: Maria Júlia Pires, Data de Nascimento: 02/03/1938, Gênero: Feminino, Endereço: Distrito Silva, 70, Tupã, SP, Telefone: (014) 61 6179 7
+ID: 189, Nome: Noah Castro, Data de Nascimento: 23/12/2003, Gênero: Masculino, Endereço: Rodovia Henry Gabriel Freitas, 62, Tupã, SP, Telefone: (014) (071) 803
+ID: 190, Nome: Ana Cecília da Rocha, Data de Nascimento: 12/09/1998, Gênero: Feminino, Endereço: Viela Jesus, 46, Tupã, SP, Telefone: (014) (084) 221
+ID: 191, Nome: Miguel Martins, Data de Nascimento: 06/01/1934, Gênero: Masculino, Endereço: Viela de Barbosa, 98, Tupã, SP, Telefone: (014) +55 84 22
+ID: 192, Nome: Maria Alice Pinto, Data de Nascimento: 20/10/2023, Gênero: Feminino, Endereço: Loteamento de Rodrigues, 7, Tupã, SP, Telefone: (014) +55 71 25
+ID: 193, Nome: Isaac Garcia, Data de Nascimento: 23/10/1970, Gênero: Masculino, Endereço: Rodovia Ana Laura Jesus, 31, Tupã, SP, Telefone: (014) +55 (011)
+ID: 194, Nome: Brenda da Mata, Data de Nascimento: 11/05/2017, Gênero: Feminino, Endereço: Esplanada de Garcia, 1, Tupã, SP, Telefone: (014) +55 (021)
+ID: 195, Nome: Dr. Ryan Vasconcelos, Data de Nascimento: 11/10/1954, Gênero: Masculino, Endereço: Sítio de Barbosa, 320, Tupã, SP, Telefone: (014) 41 6937-6
+ID: 196, Nome: Maria Julia Cavalcante, Data de Nascimento: 31/08/1983, Gênero: Feminino, Endereço: Parque Borges, 465, Tupã, SP, Telefone: (014) 21 7079-1
+ID: 197, Nome: Matteo Melo, Data de Nascimento: 04/10/1959, Gênero: Masculino, Endereço: Setor Fonseca, 34, Tupã, SP, Telefone: (014) (051) 117
+ID: 198, Nome: Rafaela da Conceição, Data de Nascimento: 27/09/1938, Gênero: Feminino, Endereço: Núcleo Brito, 30, Tupã, SP, Telefone: (014) 0900 830 
+ID: 199, Nome: Cauê Melo, Data de Nascimento: 21/10/1999, Gênero: Masculino, Endereço: Colônia Anthony da Costa, 57, Tupã, SP, Telefone: (014) +55 84 30
+ID: 200, Nome: Mariana Câmara, Data de Nascimento: 22/03/2024, Gênero: Feminino, Endereço: Distrito Ravi da Paz, 67, Tupã, SP, Telefone: (014) (011) 692
+ID: 201, Nome: Marcelo Pires, Data de Nascimento: 22/06/1972, Gênero: Masculino, Endereço: Morro Isadora Vargas, 81, Tupã, SP, Telefone: (014) (021) 172
+ID: 202, Nome: Brenda Rodrigues, Data de Nascimento: 25/11/1975, Gênero: Feminino, Endereço: Rodovia Maria Eduarda Nunes, 936, Tupã, SP, Telefone: (014) (041) 735
+ID: 203, Nome: Otto Aparecida, Data de Nascimento: 20/11/1958, Gênero: Masculino, Endereço: Passarela Ana Júlia Mendes, 49, Tupã, SP, Telefone: (014) 21 2421-9
+ID: 204, Nome: Luana Brito, Data de Nascimento: 24/12/2022, Gênero: Feminino, Endereço: Loteamento de Melo, Tupã, SP, Telefone: (014) 84 1565-9
+ID: 205, Nome: Vicente da Luz, Data de Nascimento: 15/02/1932, Gênero: Masculino, Endereço: Aeroporto de Borges, 80, Tupã, SP, Telefone: (014) (071) 351
+ID: 206, Nome: Melissa Borges, Data de Nascimento: 06/08/1934, Gênero: Feminino, Endereço: Residencial de Caldeira, 58, Tupã, SP, Telefone: (014) +55 71 85
+ID: 207, Nome: Caleb Peixoto, Data de Nascimento: 13/01/1976, Gênero: Masculino, Endereço: Feira de da Rocha, 33, Tupã, SP, Telefone: (014) +55 (051)
+ID: 208, Nome: Ágatha Rodrigues, Data de Nascimento: 26/11/1976, Gênero: Feminino, Endereço: Rua de da Mota, 733, Tupã, SP, Telefone: (014) 0800 477 
+ID: 209, Nome: Ryan Pastor, Data de Nascimento: 30/05/2009, Gênero: Masculino, Endereço: Feira Almeida, 41, Tupã, SP, Telefone: (014) 31 2560 1
+ID: 210, Nome: Yasmin Pereira, Data de Nascimento: 11/04/2016, Gênero: Feminino, Endereço: Condomínio Porto, Tupã, SP, Telefone: (014) +55 (071)
+ID: 211, Nome: Antônio Correia, Data de Nascimento: 28/10/1948, Gênero: Masculino, Endereço: Recanto Costela, 1, Tupã, SP, Telefone: (014) 71 6914-1
+ID: 212, Nome: Maya Cirino, Data de Nascimento: 16/12/1931, Gênero: Feminino, Endereço: Área Guilherme Sampaio, 53, Tupã, SP, Telefone: (014) 11 7923 0
+ID: 213, Nome: José Campos, Data de Nascimento: 14/11/2004, Gênero: Masculino, Endereço: Estação de Albuquerque, 96, Tupã, SP, Telefone: (014) (041) 564
+ID: 214, Nome: Ana Clara Nogueira, Data de Nascimento: 16/11/1961, Gênero: Feminino, Endereço: Recanto Fogaça, 345, Tupã, SP, Telefone: (014) (041) 661
+ID: 215, Nome: Henry Gabriel Porto, Data de Nascimento: 21/08/1984, Gênero: Masculino, Endereço: Viela de Nunes, 70, Tupã, SP, Telefone: (014) 0300 602 
+ID: 216, Nome: Vitória Mendonça, Data de Nascimento: 21/01/2000, Gênero: Feminino, Endereço: Área Monteiro, 84, Tupã, SP, Telefone: (014) +55 (071)
+ID: 217, Nome: Alexandre Cunha, Data de Nascimento: 05/08/1925, Gênero: Masculino, Endereço: Viela Moura, 213, Tupã, SP, Telefone: (014) 0500-344-
+ID: 218, Nome: Srta. Alícia da Mota, Data de Nascimento: 19/04/1985, Gênero: Feminino, Endereço: Jardim Carvalho, 351, Tupã, SP, Telefone: (014) +55 84 00
+ID: 219, Nome: Asafe Souza, Data de Nascimento: 06/02/2019, Gênero: Masculino, Endereço: Residencial de Silva, 66, Tupã, SP, Telefone: (014) 61 2369-4
+ID: 220, Nome: Lívia Fernandes, Data de Nascimento: 16/08/1973, Gênero: Feminino, Endereço: Loteamento Vasconcelos, 500, Tupã, SP, Telefone: (014) +55 (031)
+ID: 221, Nome: Rhavi Siqueira, Data de Nascimento: 09/04/1956, Gênero: Masculino, Endereço: Estação Rebeca Siqueira, Tupã, SP, Telefone: (014) +55 11 46
+ID: 222, Nome: Olívia Fernandes, Data de Nascimento: 03/06/1970, Gênero: Feminino, Endereço: Condomínio Maysa Lima, Tupã, SP, Telefone: (014) +55 (051)
+ID: 223, Nome: Gael Henrique Souza, Data de Nascimento: 25/09/1953, Gênero: Masculino, Endereço: Aeroporto Gael Henrique Gonçalves, Tupã, SP, Telefone: (014) 84 8477-9
+ID: 224, Nome: Hellena da Luz, Data de Nascimento: 19/04/2003, Gênero: Feminino, Endereço: Praça Correia, 21, Tupã, SP, Telefone: (014) +55 (041)
+ID: 225, Nome: Sr. Henrique Pinto, Data de Nascimento: 27/07/1943, Gênero: Masculino, Endereço: Quadra Garcia, Tupã, SP, Telefone: (014) 21 8219 7
+ID: 226, Nome: Dra. Mariana Moreira, Data de Nascimento: 27/01/1991, Gênero: Feminino, Endereço: Residencial Melina Porto, 48, Tupã, SP, Telefone: (014) +55 (021)
+ID: 227, Nome: Mateus Pacheco, Data de Nascimento: 18/09/1963, Gênero: Masculino, Endereço: Recanto de Azevedo, 9, Tupã, SP, Telefone: (014) +55 (061)
+ID: 228, Nome: Clarice Rezende, Data de Nascimento: 10/05/1986, Gênero: Feminino, Endereço: Parque de Moura, 209, Tupã, SP, Telefone: (014) 41 9163-4
+ID: 229, Nome: Mathias Pereira, Data de Nascimento: 16/06/2003, Gênero: Masculino, Endereço: Viaduto Abreu, 94, Tupã, SP, Telefone: (014) 0300 451 
+ID: 230, Nome: Maria Isis Araújo, Data de Nascimento: 10/12/1945, Gênero: Feminino, Endereço: Feira da Paz, 10, Tupã, SP, Telefone: (014) (081) 627
+ID: 231, Nome: Ravi Lucca Gomes, Data de Nascimento: 07/02/1986, Gênero: Masculino, Endereço: Recanto Vasconcelos, Tupã, SP, Telefone: (014) +55 (021)
+ID: 232, Nome: Sra. Evelyn Gomes, Data de Nascimento: 19/05/1990, Gênero: Feminino, Endereço: Vale Sampaio, Tupã, SP, Telefone: (014) (061) 951
+ID: 233, Nome: Sr. Valentim Viana, Data de Nascimento: 22/05/1949, Gênero: Masculino, Endereço: Praia Esther Sá, Tupã, SP, Telefone: (014) +55 (071)
+ID: 234, Nome: Helena da Conceição, Data de Nascimento: 15/05/1936, Gênero: Feminino, Endereço: Rodovia de Sampaio, 568, Tupã, SP, Telefone: (014) +55 61 26
+ID: 235, Nome: Oliver Vasconcelos, Data de Nascimento: 25/11/1944, Gênero: Masculino, Endereço: Praia Lopes, 80, Tupã, SP, Telefone: (014) (061) 415
+ID: 236, Nome: Emanuelly Albuquerque, Data de Nascimento: 07/01/1955, Gênero: Feminino, Endereço: Campo João Pedro Costela, 4, Tupã, SP, Telefone: (014) +55 71 04
+ID: 237, Nome: Daniel Mendes, Data de Nascimento: 12/07/1970, Gênero: Masculino, Endereço: Conjunto Benjamin Costela, 85, Tupã, SP, Telefone: (014) (021) 485
+ID: 238, Nome: Lorena Castro, Data de Nascimento: 26/11/1974, Gênero: Feminino, Endereço: Fazenda Dias, 333, Tupã, SP, Telefone: (014) (021) 560
+ID: 239, Nome: Sr. Davi Lucca Leão, Data de Nascimento: 24/05/1964, Gênero: Masculino, Endereço: Distrito Lavínia da Rosa, 41, Tupã, SP, Telefone: (014) (031) 580
+ID: 240, Nome: Gabrielly Freitas, Data de Nascimento: 27/07/1963, Gênero: Feminino, Endereço: Estação Vieira, 5, Tupã, SP, Telefone: (014) +55 61 89
+ID: 241, Nome: Josué Marques, Data de Nascimento: 22/12/1969, Gênero: Masculino, Endereço: Morro Martins, 8, Tupã, SP, Telefone: (014) +55 (084)
+ID: 242, Nome: Liz Nogueira, Data de Nascimento: 22/07/2006, Gênero: Feminino, Endereço: Recanto Francisco Rocha, 93, Tupã, SP, Telefone: (014) 71 4014 0
+ID: 243, Nome: Miguel Macedo, Data de Nascimento: 15/07/1937, Gênero: Masculino, Endereço: Morro Alice Sá, 29, Tupã, SP, Telefone: (014) +55 (051)
+ID: 244, Nome: Ana Lívia Leão, Data de Nascimento: 28/01/1963, Gênero: Feminino, Endereço: Conjunto de Oliveira, 238, Tupã, SP, Telefone: (014) 81 8644 7
+ID: 245, Nome: Davi Sampaio, Data de Nascimento: 19/01/1940, Gênero: Masculino, Endereço: Trecho Maria Helena Carvalho, 845, Tupã, SP, Telefone: (014) 84 3778 5
+ID: 246, Nome: Cecília Souza, Data de Nascimento: 02/02/1991, Gênero: Feminino, Endereço: Favela de Alves, Tupã, SP, Telefone: (014) 11 7608 1
+ID: 247, Nome: Asafe Camargo, Data de Nascimento: 24/02/2008, Gênero: Masculino, Endereço: Vereda Ana Siqueira, Tupã, SP, Telefone: (014) +55 31 29
+ID: 248, Nome: Eloá Farias, Data de Nascimento: 16/01/1981, Gênero: Feminino, Endereço: Praça de Casa Grande, 92, Tupã, SP, Telefone: (014) (051) 232
+ID: 249, Nome: Henry Vieira, Data de Nascimento: 08/05/1950, Gênero: Masculino, Endereço: Trecho Santos, 7, Tupã, SP, Telefone: (014) +55 (051)
+ID: 250, Nome: Aurora Santos, Data de Nascimento: 07/05/1993, Gênero: Feminino, Endereço: Morro Juliana Marques, 9, Tupã, SP, Telefone: (014) 81 6977-4
+ID: 251, Nome: Asafe Aparecida, Data de Nascimento: 20/10/1930, Gênero: Masculino, Endereço: Aeroporto Amanda Rezende, 3, Tupã, SP, Telefone: (014) +55 (084)
+ID: 252, Nome: Bella Pereira, Data de Nascimento: 21/04/1935, Gênero: Feminino, Endereço: Largo Stella Marques, 14, Tupã, SP, Telefone: (014) 41 0351-3
+ID: 253, Nome: José Rocha, Data de Nascimento: 14/11/2022, Gênero: Masculino, Endereço: Lagoa Pietra Gomes, 67, Tupã, SP, Telefone: (014) +55 41 04
+ID: 254, Nome: Maria Sophia Monteiro, Data de Nascimento: 29/04/1986, Gênero: Feminino, Endereço: Chácara Barros, 31, Tupã, SP, Telefone: (014) 81 3791 6
+ID: 255, Nome: Josué Mendonça, Data de Nascimento: 06/08/1953, Gênero: Masculino, Endereço: Morro Antonella Lopes, 9, Tupã, SP, Telefone: (014) (011) 983
+ID: 256, Nome: Joana da Mata, Data de Nascimento: 13/03/1955, Gênero: Feminino, Endereço: Vale Viana, Tupã, SP, Telefone: (014) +55 41 26
+ID: 257, Nome: Benicio Campos, Data de Nascimento: 03/01/1976, Gênero: Masculino, Endereço: Condomínio Elisa da Conceição, 443, Tupã, SP, Telefone: (014) +55 (084)
+ID: 258, Nome: Cecilia Albuquerque, Data de Nascimento: 05/12/1998, Gênero: Feminino, Endereço: Núcleo Benicio Cardoso, 32, Tupã, SP, Telefone: (014) 31 1237-9
+ID: 259, Nome: Matheus Fogaça, Data de Nascimento: 19/06/2006, Gênero: Masculino, Endereço: Vereda Monteiro, 1, Tupã, SP, Telefone: (014) 51 9577 4
+ID: 260, Nome: Srta. Sabrina Sousa, Data de Nascimento: 06/02/1989, Gênero: Feminino, Endereço: Chácara Valentim Carvalho, 663, Tupã, SP, Telefone: (014) (021) 603
+ID: 261, Nome: Sr. José Pedro Ferreira, Data de Nascimento: 19/01/2015, Gênero: Masculino, Endereço: Alameda Eduarda Oliveira, 602, Tupã, SP, Telefone: (014) +55 (031)
+ID: 262, Nome: Ana Liz Ferreira, Data de Nascimento: 06/01/2014, Gênero: Feminino, Endereço: Favela Machado, 62, Tupã, SP, Telefone: (014) (041) 256
+ID: 263, Nome: Ravi Teixeira, Data de Nascimento: 10/05/1929, Gênero: Masculino, Endereço: Pátio Gomes, 90, Tupã, SP, Telefone: (014) +55 84 98
+ID: 264, Nome: Eloá Souza, Data de Nascimento: 10/09/2016, Gênero: Feminino, Endereço: Chácara Lima, 819, Tupã, SP, Telefone: (014) +55 (021)
+ID: 265, Nome: Caio Fogaça, Data de Nascimento: 28/06/1963, Gênero: Masculino, Endereço: Quadra da Costa, 752, Tupã, SP, Telefone: (014) (081) 476
+ID: 266, Nome: Ana Beatriz Vargas, Data de Nascimento: 10/01/1996, Gênero: Feminino, Endereço: Jardim de Rodrigues, 8, Tupã, SP, Telefone: (014) 61 1657 0
+ID: 267, Nome: João Vitor Rodrigues, Data de Nascimento: 01/11/1951, Gênero: Masculino, Endereço: Rua de Fernandes, 44, Tupã, SP, Telefone: (014) +55 61 95
+ID: 268, Nome: Alexia Pacheco, Data de Nascimento: 16/08/1930, Gênero: Feminino, Endereço: Morro Fonseca, 64, Tupã, SP, Telefone: (014) 11 6962-0
+ID: 269, Nome: Davi Lucas Fernandes, Data de Nascimento: 01/12/1924, Gênero: Masculino, Endereço: Viaduto Théo Souza, 931, Tupã, SP, Telefone: (014) (011) 428
+ID: 270, Nome: Ísis Pereira, Data de Nascimento: 03/01/1976, Gênero: Feminino, Endereço: Ladeira Ana Lívia da Paz, 7, Tupã, SP, Telefone: (014) +55 84 48
+ID: 271, Nome: André Sá, Data de Nascimento: 29/03/1993, Gênero: Masculino, Endereço: Vila de Viana, 865, Tupã, SP, Telefone: (014) +55 (051)
+ID: 272, Nome: Srta. Maria Pires, Data de Nascimento: 06/12/2018, Gênero: Feminino, Endereço: Feira Oliveira, 34, Tupã, SP, Telefone: (014) 84 1973 7
+ID: 273, Nome: Pedro Lucas Azevedo, Data de Nascimento: 23/09/1981, Gênero: Masculino, Endereço: Ladeira Thiago Lopes, 69, Tupã, SP, Telefone: (014) +55 31 40
+ID: 274, Nome: Maria Julia Sampaio, Data de Nascimento: 16/11/1928, Gênero: Feminino, Endereço: Morro José Nunes, 15, Tupã, SP, Telefone: (014) 61 7820 1
+ID: 275, Nome: Bernardo Correia, Data de Nascimento: 09/04/2021, Gênero: Masculino, Endereço: Setor de Melo, Tupã, SP, Telefone: (014) +55 (061)
+ID: 276, Nome: Clara Guerra, Data de Nascimento: 23/04/1965, Gênero: Feminino, Endereço: Esplanada Cardoso, 17, Tupã, SP, Telefone: (014) 41 0862-5
+ID: 277, Nome: Erick da Luz, Data de Nascimento: 01/02/1951, Gênero: Masculino, Endereço: Largo Thiago Viana, 88, Tupã, SP, Telefone: (014) +55 (021)
+ID: 278, Nome: Ana Sophia Correia, Data de Nascimento: 24/11/2011, Gênero: Feminino, Endereço: Vale Rhavi Marques, 325, Tupã, SP, Telefone: (014) (071) 808
+ID: 279, Nome: Paulo Pereira, Data de Nascimento: 07/08/1971, Gênero: Masculino, Endereço: Loteamento Gabriela Moraes, 31, Tupã, SP, Telefone: (014) (051) 022
+ID: 280, Nome: Ana Liz Sampaio, Data de Nascimento: 04/01/1966, Gênero: Feminino, Endereço: Avenida Lucca Fogaça, 7, Tupã, SP, Telefone: (014) +55 (071)
+ID: 281, Nome: Fernando Alves, Data de Nascimento: 26/05/1985, Gênero: Masculino, Endereço: Estrada Hellena Azevedo, 21, Tupã, SP, Telefone: (014) +55 (041)
+ID: 282, Nome: Sabrina Melo, Data de Nascimento: 07/08/1934, Gênero: Feminino, Endereço: Setor Guerra, 90, Tupã, SP, Telefone: (014) +55 41 15
+ID: 283, Nome: Dr. Arthur Miguel Abreu, Data de Nascimento: 01/12/1974, Gênero: Masculino, Endereço: Sítio Sampaio, 32, Tupã, SP, Telefone: (014) +55 (031)
+ID: 284, Nome: Larissa Farias, Data de Nascimento: 15/10/1946, Gênero: Feminino, Endereço: Fazenda Luan Leão, 35, Tupã, SP, Telefone: (014) 51 9029 0
+ID: 285, Nome: Apollo Duarte, Data de Nascimento: 26/01/1993, Gênero: Masculino, Endereço: Avenida Vasconcelos, Tupã, SP, Telefone: (014) +55 61 99
+ID: 286, Nome: Lívia Silva, Data de Nascimento: 25/05/1957, Gênero: Feminino, Endereço: Rodovia Pedro Nascimento, 31, Tupã, SP, Telefone: (014) 81 9516 6
+ID: 287, Nome: Miguel da Costa, Data de Nascimento: 21/06/2011, Gênero: Masculino, Endereço: Trecho Davi Miguel da Cunha, 68, Tupã, SP, Telefone: (014) 71 0997-3
+ID: 288, Nome: Maria Júlia Pires, Data de Nascimento: 02/03/1938, Gênero: Feminino, Endereço: Distrito Silva, 70, Tupã, SP, Telefone: (014) 61 6179 7
+ID: 289, Nome: Noah Castro, Data de Nascimento: 23/12/2003, Gênero: Masculino, Endereço: Rodovia Henry Gabriel Freitas, 62, Tupã, SP, Telefone: (014) (071) 803
+ID: 290, Nome: Ana Cecília da Rocha, Data de Nascimento: 12/09/1998, Gênero: Feminino, Endereço: Viela Jesus, 46, Tupã, SP, Telefone: (014) (084) 221
+ID: 291, Nome: Miguel Martins, Data de Nascimento: 06/01/1934, Gênero: Masculino, Endereço: Viela de Barbosa, 98, Tupã, SP, Telefone: (014) +55 84 22
+ID: 292, Nome: Maria Alice Pinto, Data de Nascimento: 20/10/2023, Gênero: Feminino, Endereço: Loteamento de Rodrigues, 7, Tupã, SP, Telefone: (014) +55 71 25
+ID: 293, Nome: Isaac Garcia, Data de Nascimento: 23/10/1970, Gênero: Masculino, Endereço: Rodovia Ana Laura Jesus, 31, Tupã, SP, Telefone: (014) +55 (011)
+ID: 294, Nome: Brenda da Mata, Data de Nascimento: 11/05/2017, Gênero: Feminino, Endereço: Esplanada de Garcia, 1, Tupã, SP, Telefone: (014) +55 (021)
+ID: 295, Nome: Dr. Ryan Vasconcelos, Data de Nascimento: 11/10/1954, Gênero: Masculino, Endereço: Sítio de Barbosa, 320, Tupã, SP, Telefone: (014) 41 6937-6
+ID: 296, Nome: Maria Julia Cavalcante, Data de Nascimento: 31/08/1983, Gênero: Feminino, Endereço: Parque Borges, 465, Tupã, SP, Telefone: (014) 21 7079-1
+ID: 297, Nome: Matteo Melo, Data de Nascimento: 04/10/1959, Gênero: Masculino, Endereço: Setor Fonseca, 34, Tupã, SP, Telefone: (014) (051) 117
+ID: 298, Nome: Rafaela da Conceição, Data de Nascimento: 27/09/1938, Gênero: Feminino, Endereço: Núcleo Brito, 30, Tupã, SP, Telefone: (014) 0900 830 
+ID: 299, Nome: Cauê Melo, Data de Nascimento: 21/10/1999, Gênero: Masculino, Endereço: Colônia Anthony da Costa, 57, Tupã, SP, Telefone: (014) +55 84 30
+ID: 300, Nome: Mariana Câmara, Data de Nascimento: 22/03/2024, Gênero: Feminino, Endereço: Distrito Ravi da Paz, 67, Tupã, SP, Telefone: (014) (011) 692
+ID: 301, Nome: Marcelo Pires, Data de Nascimento: 22/06/1972, Gênero: Masculino, Endereço: Morro Isadora Vargas, 81, Tupã, SP, Telefone: (014) (021) 172
+ID: 302, Nome: Brenda Rodrigues, Data de Nascimento: 25/11/1975, Gênero: Feminino, Endereço: Rodovia Maria Eduarda Nunes, 936, Tupã, SP, Telefone: (014) (041) 735

@@ -1,0 +1,4 @@
+Relatório de Consultas
+======================
+
+ID: 1, Paciente: Sonia, Data: 31/08/2024, Horário: 07:00, Motivo: Dor de dente
